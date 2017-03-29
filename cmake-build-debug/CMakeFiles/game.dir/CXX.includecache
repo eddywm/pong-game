@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddylloyd/CLionProjects/Gamedev/pong-game/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+
